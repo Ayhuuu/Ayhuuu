@@ -4,7 +4,7 @@
  </p>
 
 ```sh-session
-pip install bitchess 
+pip install bitches 
 ```
 <p align="center"><img src="https://count.getloli.com/get/@:addi00000" alt=":addi00000" /></p>
 
