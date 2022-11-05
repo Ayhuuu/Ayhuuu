@@ -6,7 +6,7 @@
 ```sh-session
 pip install bitches 
 ```
-<p align="center"><img src="https://count.getloli.com/@:Ayhuuu" alt=":Ayhuuu" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":Ayhuuu" /></p>
 
  
 
