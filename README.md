@@ -13,6 +13,11 @@ def  __social__(self):
  self.gtb = "https://github.com/Ayhuuu"
  self.dsc = "Ayhu#1337"
  self.tlg = "https://t.me/Ayhhuu"
+ 
+   }
+      
+ ┌──(Ayhuuu@root)-[~/]
+ └─$
 ```
 <p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":Ayhuuu" /></p>
 
