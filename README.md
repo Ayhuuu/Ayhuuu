@@ -12,7 +12,7 @@ class Ayhuuu:
 def  __social__(self):
  self.gtb = "https://github.com/Ayhuuu"
  self.dsc = "Ayhu#1337"
- self.dsc = "https://t.me/Ayhhuu"
+ self.tlg = "https://t.me/Ayhhuu"
 ```
 <p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":Ayhuuu" /></p>
 
