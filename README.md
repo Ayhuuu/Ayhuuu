@@ -3,8 +3,16 @@
 <a href="https://discord.com/users/703179231886049341"><img src="https://discord.c99.nl/widget/theme-4/703179231886049341.png" width=50%></a>
  </p>
 
-```ssh-sesion
-pip install bitches 
+```python
+┌──(loTus04㉿root)-[~/]
+└─$ cat Ayhuuu.py
+
+class Ayhuuu:
+
+def  __social__(self):
+ self.gtb = "https://github.com/Ayhuuu"
+ self.dsc = "Ayhu#1337"
+ self.dsc = "https://t.me/Ayhhuu"
 ```
 <p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":Ayhuuu" /></p>
 
