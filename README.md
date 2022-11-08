@@ -3,7 +3,7 @@
 <a href="https://discord.com/users/703179231886049341"><img src="https://discord.c99.nl/widget/theme-4/703179231886049341.png" width=50%></a>
  </p>
 
-```sh-session
+```python
 pip install bitches 
 ```
 <p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":Ayhuuu" /></p>
