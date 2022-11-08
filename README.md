@@ -4,7 +4,7 @@
  </p>
 
 ```python
-┌──(loTus04㉿root)-[~/]
+┌──(Ayhuuu㉿root)-[~/]
 └─$ cat Ayhuuu.py
 
 class Ayhuuu:
