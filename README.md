@@ -1,7 +1,7 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
-<p align=center>
-<a href="https://discord.com/users/703179231886049341"><img src="https://discord.c99.nl/widget/theme-4/703179231886049341.png" width=50%></a>
- </p>
+<div align="center">
+    <a href="https://discord.com/users/703179231886049341" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/703179231886049341"></a>
+</div>
 
 ```python
 ┌──(Ayhuuu@root)-[~/]
