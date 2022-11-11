@@ -17,9 +17,7 @@ def  __social__(self):
  ┌──(Ayhuuu@root)-[~/]
  └─$
 ```
-<p align=center>
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@Ayhuuu"/></a><br/>
-</p>
+
 
  
 
