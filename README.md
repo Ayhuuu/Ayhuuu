@@ -1,7 +1,5 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
-<div align="center">
-    <a href="https://discord.com/users/703179231886049341" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/703179231886049341"></a>
-</div>
+
 
 ```python
 ┌──(Ayhuuu@root)-[~/]
@@ -17,6 +15,9 @@ def  __social__(self):
  ┌──(Ayhuuu@root)-[~/]
  └─$
 ```
+<div align="center">
+    <a href="https://discord.com/users/703179231886049341" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/703179231886049341"></a>
+</div>
 <p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":Ayhuuu" /></p>
 
  
