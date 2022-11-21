@@ -2,7 +2,7 @@
 <div align="center">
     <a href="https://discord.com/users/703179231886049341" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/703179231886049341"></a>
 </div>
-
+![](https://komarev.com/ghpvc/?username=Ayhuuu)
 ```python
 ┌──(Ayhuuu@root)-[~/]
 └─$ cat Ayhuuu.py
