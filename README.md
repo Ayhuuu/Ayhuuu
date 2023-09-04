@@ -2,6 +2,9 @@
 
 
 <a href="https://github.com/Ayhuuu"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
+
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/kedy.gif"></img>
+
 ```python
 ┌──(Ayhuuu@root)-[~/]
 └─$ cat Ayhuuu.py
