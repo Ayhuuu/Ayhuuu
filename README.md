@@ -6,7 +6,7 @@
 <p align="center">
   <img style="border-radius: 15px; display: block; margin: 0 auto; margin-bottom: 20px;" width="400" src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/kedy.gif">
 </p>
-
+<a href="https://github.com/Ayhuuu/"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 
 
 
