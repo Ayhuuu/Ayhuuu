@@ -27,8 +27,8 @@ class Ayhuuu:
 
 def  __social__(self):
  self.gtb = "https://github.com/Ayhuuu"
- self.dsc = "Ayhu..." 
- self.tlg = "Ayhu..."
+ self.dsc = "Ayhu" 
+ self.tlg = "Ayhhuu"
   
  ┌──(Ayhuuu@root)-[~/]
  └─$
